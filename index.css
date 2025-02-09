@@ -10,14 +10,15 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* height: 100vh; */
+  height: 100vh;
+  overflow: hidden;
   /* width: 2060px; */
   background: #262626;
 }
 
 P {
   width: 100%;
-  font-size: 1em;
+  font-size: 0.8em;
   line-height: 0.7em;
   text-align: justify;
   background: url(L2.png);
